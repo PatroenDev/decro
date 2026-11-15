@@ -45,7 +45,7 @@ class fuck:
  `[[     [[[[[        ,[[     \[[,[[[[, ,[[[[,`]]nnn]]'   '[[,[[['     .n[[
   $$,    $$$$$        $$$,     $$$$$$$$$$$"$$$ $$$""        c$$"      ``"$$$.
   888_,o8P'`88bo,__,o,"888,_ _,88P888 Y88" 888o888o       ,8P"`       ,,o888"
-  MMMMP"`    "YUMMMMMP" "YMMMMMP" MMM  M'  "MMMYMMMb     mM"          YMMP"
+  MMMMP"`    "YUMMMMMP" "YMMMMMP" MMM  M'  "MMMYMMMb     mM"          YMPMP"
 ==============================================================================
 			,hcoded by: ,pZhu Bai Lee
 			,hTeam    : ,pBLACK CODER CRUSH''')
